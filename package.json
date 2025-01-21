@@ -1,0 +1,45 @@
+{
+  "name": "routine-tracker-app",
+  "version": "0.1.0",
+  "homepage": "https://ezekiel673.github.io/routine-tracker-app",
+  "private": true,
+  "dependencies": {
+    "cra-template": "1.2.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  },
+  "description": "**Routine Tracker App** is a simple and intuitive application developed with React to help users set, track, and evaluate their daily routines. The app ensures progress is saved and provides a monthly summary email to users for reflection and motivation.",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/routine-tracker-app/static/css/main.a5a1e8da.css",
+    "main.js": "/routine-tracker-app/static/js/main.ce5a95c7.js",
+    "static/media/routine_tracker_bg.jpg": "/routine-tracker-app/static/media/routine_tracker_bg.89ee09204cad9e4e481f.jpg",
+    "index.html": "/routine-tracker-app/index.html",
+    "main.a5a1e8da.css.map": "/routine-tracker-app/static/css/main.a5a1e8da.css.map",
+    "main.ce5a95c7.js.map": "/routine-tracker-app/static/js/main.ce5a95c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5a1e8da.css",
+    "static/js/main.ce5a95c7.js"
+  ]
+}
