@@ -7,7 +7,8 @@
 - **User-friendly Form**: Enter your name, email, month, year, and up to 10 routines to set your monthly goals.
 - **Interactive Tracking Page**: Mark your routine progress for each day of the month with a visually appealing table.
 - **Persistent Data**: Changes are automatically saved online, ensuring no progress is lost.
-- **Monthly Summary Email**: Receive an email at the end of each month with a summary table and a report on how well you followed your routines.
+- **Monthly Summary Email**: Receive an email at the end of each month with a 
+
 
 ## Screenshots
 
